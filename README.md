@@ -1,6 +1,6 @@
 # Audio Steganography Library
 
-A professional Python library for hiding and extracting images in WAV audio files using LSB (Least Significant Bit) steganography.
+Python library for hiding and extracting images in WAV audio files using LSB (Least Significant Bit) steganography.
 
 ## Features
 
@@ -223,10 +223,6 @@ MIT License - Free to use for educational and personal projects.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Author
-
-Audio Steganography Library
 
 ## Version
 
